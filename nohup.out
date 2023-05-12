@@ -1,0 +1,8 @@
+
+05/12 10:56:14 [[1;33mWARN[0m] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+
+05/12 10:56:14 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
+
+05/12 11:02:49 [[1;33mWARN[0m] Neither --rpc-secret nor a combination of --rpc-user and --rpc-passwd is set. This is insecure. It is extremely recommended to specify --rpc-secret with the adequate secrecy or now deprecated --rpc-user and --rpc-passwd.
+
+05/12 11:02:49 [[1;32mNOTICE[0m] IPv4 RPC: listening on TCP port 6800
